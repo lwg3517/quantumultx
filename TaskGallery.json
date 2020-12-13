@@ -9,11 +9,8 @@
         "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_apple_live.js, tag=苹果抽奖机, img-url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/img/dragonball/9.PNG",
         "*/11 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js, tag=qq阅读, img-url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/img/dragonball/7.PNG",
         "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png",
- 
         "0 9 * * * https://raw.githubusercontent.com/58xinian/Surge/master/Script/huke.js, tag=虎课网, img-url=https://raw.githubusercontent.com/58xinian/icon/master/huke.png",
-       
         "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_kd.js, tag=京东快递签到, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_kd.png",
-      
         "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_car.js, tag=京东汽车, img-url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/img/dragonball/12.PNG",
         "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_health.js, tag=健康抽奖机, img-url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/img/dragonball/13.PNG",
         "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bean_home.js, tag=领京豆额外奖励, img-url= https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
