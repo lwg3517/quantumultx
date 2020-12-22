@@ -2,6 +2,7 @@
     "name": "TaskGallery",
     "description": "脚本合集",
     "task": [
+        "55 23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unbind.js, tag=注销京东会员卡, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png",
         "10-20/2 9 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_watch.js, tag=京东看一看, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png",
         "10 * * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_jdfactory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png",
         "10 * * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_dreamFactory.js, tag=京喜工厂, img-url=https://github.com/58xinian/icon/raw/master/jdgc.png",
