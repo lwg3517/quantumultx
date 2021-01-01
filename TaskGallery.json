@@ -2,6 +2,7 @@
     "name": "TaskGallery",
     "description": "脚本合集",
     "task": [
+        "*/10 */2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jukan.js, tag=聚看点, img-url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/img/dragonball/17.PNG",
         "30,31 20-23/1 26 * * https://raw.githubusercontent.com/shylocks/jd_scripts/once/jd_live_redRain_26.js, tag=超级直播间红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png",
         "15 17 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/backUp/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png",
         "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_syj.js, tag=十元街, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png",
