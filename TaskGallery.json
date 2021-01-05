@@ -2,7 +2,6 @@
     "name": "TaskGallery",
     "description": "脚本合集",
     "task": [
-        "30,31 20-23/1 26 * * https://raw.githubusercontent.com/shylocks/jd_scripts/once/jd_live_redRain_26.js, tag=超级直播间红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png",
         "15 17 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/backUp/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png",
         "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_syj.js, tag=十元街, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png",
         "0 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/ddxw.js, tag=京东小窝, img-url=https://raw.githubusercontent.com/58xinian/icon/master/ddxw.png",
@@ -15,7 +14,6 @@
         "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png",
         "11 9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png",
         "*/11 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js, tag=qq阅读, img-url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/img/dragonball/7.PNG",
-        "0 0,9,11,13,15,17,19,20,21,23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain.js , tag=直播红包雨, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png",
         "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png",
         "0 9 * * * https://raw.githubusercontent.com/58xinian/Surge/master/Script/huke.js, tag=虎课网, img-url=https://raw.githubusercontent.com/58xinian/icon/master/huke.png",
         "10 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_kd.js, tag=京东快递签到, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_kd.png",
