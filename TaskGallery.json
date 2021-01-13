@@ -2,7 +2,7 @@
     "name": "TaskGallery",
     "description": "脚本合集",
     "task": [
-    "1 */1 * * * https://github.com/lwg3517/quantumultx/raw/main/%E5%AE%B6%E5%BA%AD%E5%8F%B7.js, tag=京东家庭号, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_family.png",
+    "1 */1 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_family.js, tag=京东家庭号, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_family.png",
     "1,7 0,20 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=野比京东, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "0 9,12,18 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_jxnc.js, tag=京喜农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png",
     "1 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_nh.js, tag=京东年货节, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_nh.png",
