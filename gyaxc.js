@@ -31,8 +31,8 @@ const $ = new Env('工业品爱消除');
 const notify = $.isNode() ? require('./sendNotify') : '';
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 let inviteCodes = [
-  '1310933@2753625@1827506@1927424@1093729@2338575@1296033@1343300@2097217',
-  '1310933@2753625@1827506@1927424@1093729@2338575@1296033@1343300@2097217',
+  '2338575@2753625@1827506@1927424@1093729@1310933@1296033@1343300@2097217',
+  '2338575@2753625@1827506@1927424@1093729@1310933@1296033@1343300@2097217',
 ]
 let exchangeName = $.isNode() ? (process.env.EXCHANGE_GYEC ? process.env.EXCHANGE_GYEC : '1888京豆') : ($.getdata('JDGYEC') ? $.getdata('JDGYEC') : '1888京豆')
 //Node.js用户请在jdCookie.js处填写京东ck;
