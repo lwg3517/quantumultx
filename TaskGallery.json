@@ -2,6 +2,8 @@
   "name": "TaskGallery",
   "description": "脚本合集",
   "task": [
+        "5 1,6,11,16,21 * 3-4 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_super5g.js, tag=5G超级盲盒, enabled=true",
+        "5 10 * 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_mgold.js, tag=金口碑奖投票, enabled=true",
         " 5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wkzz.js, tag=微客众智, img-url=https://ae01.alicdn.com/kf/Uff0a0bb9e66a479591c9b02c176fd276A.jpg, enabled=true",
         " 0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/fqxs.js, tag=番茄小说, img-url=https://raw.githubusercontent.com/KodoShinichi/Head/main/fqxs.png, enabled=true",
         " 0 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.js, tag=书旗, img-url=https://gitee.com/ydj0602/hym/raw/img/SQ.PNG, enabled=false",
