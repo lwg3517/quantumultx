@@ -2,6 +2,7 @@
   "name": "TaskGallery",
   "description": "脚本合集",
   "task": [
+        "10-15 9 * * * https://raw.githubusercontent.com/age174/-/main/lgyy.js, tag=朗果英语, img-url=https://ae01.alicdn.com/kf/Uc3c35e1796624a7ca6a23c89c7f0dff2H.jpg, enabled=true",
         "10 8 * * * https://raw.githubusercontent.com/age174/-/main/zqwn.js, tag=最强蜗牛, img-url=https://ae01.alicdn.com/kf/U1748aeaa81a54cdf8797ed3fc54d76ef3.jpg, enabled=true",
         "50 12 * * * https://raw.githubusercontent.com/age174/-/main/yggy.js, tag=阳光果园, img-url= https://ae01.alicdn.com/kf/Ubf3bd5e9c2414c18a96a3a2b20a9d2c5C.jpg, enabled=true",
         "30 10 * * * https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/jd_try.js, tag=京东试用(取关200个店铺再用), img-url=https://raw.githubusercontent.com/ZCY01/img/master/jdtryv1.png, enabled=true",
