@@ -2,6 +2,7 @@
   "name": "TaskGallery",
   "description": "脚本合集",
   "task": [
+        "10 0-23/4 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health.js, tag=东东健康社区, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
         "0 0 0/4 * * ? https://raw.githubusercontent.com/xl2101200/-/main/zb.js, tag=左边, enabled=true",
         "20 9-22 * * * https://raw.githubusercontent.com/age174/-/main/jjrm.js, tag=久金人脉, img-url=https://ae01.alicdn.com/kf/Uf3f262fb6d81492a8e350a0bb97a04a0g.jpg, enabled=true",
         "0 9,13 * * * https://raw.githubusercontent.com/age174/-/main/lhws.js, tag=落花无生, img-url=https://ae01.alicdn.com/kf/U7f67ec3bd2d848a59d72a1807dc9e324r.jpg, enabled=true",
