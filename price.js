@@ -1,4 +1,4 @@
-hostname = api.m.jd.com,trade-acs.m.taobao.com, amdc.m.taobao.com
+hostname = api.m.jd.com,trade-acs.m.taobao.com
 
 
 #京东历史比价 (by yichahucha)
