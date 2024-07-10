@@ -468,7 +468,7 @@ const _0x52877 = _0x203e;
 })(_0x5721, 851760);
 const _0x8716db = new _0x4cda8f(_0x52877(533));
 let _0x268653 = ["\n"],
-	_0x2fdc9f = "bjxdCookie",
+	_0x2fdc9f = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2hpZCI6ImQ5ZDFhNTVkY2U5MjQ2NzFiMmQxZWIwYjE3NzRiZjQyIiwidXNlcl9uYW1lIjoiIiwiZXhwIjoxNzIzMDE3NDY2LCJpc3MiOiJnby5taWNyby5zcnYudXNlciJ9.C5XHvXE88ucvvLUj0KZa3IP6MoxOVezP3Bo-ucvCfgQ",
 	_0x219a02 =
 		(_0x8716db[_0x52877(515) + "e"]()
 			? process[_0x52877(330)][_0x2fdc9f]
