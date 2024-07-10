@@ -11,9 +11,9 @@
 重写：打开APP获取
 [task_local]
 #北京现代
-58 0,9-22/4 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/bjxd.js, tag=北京现代, enabled=true
+58 0,9-22/4 * * * https://raw.githubusercontent.com/lwg3517/quantumultx/main/%20bjxd.js, tag=北京现代, enabled=true
 [rewrite_local]
-https://bm2-api.bluemembers.com.cn/v1/app/white/lovecar/banner url script-request-header https://raw.githubusercontent.com/leafTheFish/DeathNote/main/bjxd.js
+https://bm2-api.bluemembers.com.cn/v1/app/white/lovecar/banner url script-request-header https://raw.githubusercontent.com/lwg3517/quantumultx/main/%20bjxd.js
 [MITM]
 hostname = bm2-api.bluemembers.com.cn
 
